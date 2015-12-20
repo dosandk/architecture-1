@@ -5,9 +5,9 @@ require.config({
     },
     shim: {
         /*jquery: {
-         deps: ['helpers/jquery'],
-         exports: '$'
-         }*/
+            deps: ['helpers/jquery'],
+            exports: '$'
+        }*/
     },
     // Turn of loading timeout
     waitSeconds: 0
